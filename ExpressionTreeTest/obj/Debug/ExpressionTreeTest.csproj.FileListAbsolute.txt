@@ -1,0 +1,6 @@
+C:\Users\Connor\Documents\Visual Studio 2015\Projects\ExpressionTreeTest\ExpressionTreeTest\bin\Debug\ExpressionTreeTest.exe.config
+C:\Users\Connor\Documents\Visual Studio 2015\Projects\ExpressionTreeTest\ExpressionTreeTest\bin\Debug\ExpressionTreeTest.exe
+C:\Users\Connor\Documents\Visual Studio 2015\Projects\ExpressionTreeTest\ExpressionTreeTest\bin\Debug\ExpressionTreeTest.pdb
+C:\Users\Connor\Documents\Visual Studio 2015\Projects\ExpressionTreeTest\ExpressionTreeTest\obj\Debug\ExpressionTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Documents\Visual Studio 2015\Projects\ExpressionTreeTest\ExpressionTreeTest\obj\Debug\ExpressionTreeTest.exe
+C:\Users\Connor\Documents\Visual Studio 2015\Projects\ExpressionTreeTest\ExpressionTreeTest\obj\Debug\ExpressionTreeTest.pdb
