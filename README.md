@@ -1,2 +1,0 @@
-# ExpTree
-C# ExpTree Implementation
